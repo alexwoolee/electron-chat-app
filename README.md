@@ -1,8 +1,8 @@
-# Dogoo Chat
+# Electron Chat App
 <img src="assets/readme/CunningCorgi.jpg" width="250px" height="250px" style="border-radius:16px;" alt="CunningCorgi">
 
 ## Description
-Dogoo Chat is a very basic desktop app that allows real-time messaging between clients with a fun, engaging UI.
+A very basic desktop app that allows real-time messaging between clients with a fun, engaging UI.
 
 ## Tech Stack
 - Electron - desktop app framework for cross-platform apps 
